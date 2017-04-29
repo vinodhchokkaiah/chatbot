@@ -26,6 +26,9 @@ def call_apiai(message):
 #print_bot_message("Hi for now I am an echo bot I am gonna just repeat what you say !!\
 #if you are tired of me just say 'exit'")
 
+'''
+Chat boot sample 
+'''
 while True:
     message = raw_input("User ::  ")
     if message.lower() == "exit":
